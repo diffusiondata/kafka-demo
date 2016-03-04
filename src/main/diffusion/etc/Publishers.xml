@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<publishers>
+	<publisher name="KafkaDemo">
+		<class>demos.DiffusionKafkaProducer
+		</class>
+		<start>true</start>
+		<launch name="KafkaDemo" category="demo">
+			<description>Kafka integration demo
+			</description>
+			<url>/kafka</url>
+		</launch>
+	</publisher>
+</publishers>
